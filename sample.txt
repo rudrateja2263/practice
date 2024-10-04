@@ -1,6 +1,4 @@
 hello
 welcome
 learn git
-ok learn proframing
-
-sam
+ok
